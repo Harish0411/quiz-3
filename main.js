@@ -11,3 +11,6 @@ function xyzzy() {
 const howdy = hello('Hi', 'Grace'); // stored hello function call in const keyword and Hi & Grace are two arguments pass to the hello function
 let foo = xyzzy(); // stored xyzzy function call in let keyword
 
+// primitives : 1,2,3,4,5, " ", "Hi", "Grace"
+// object : {a:1, b:2, c:[3,4,5], d:{}}, {}
+// variables: howdy, foo
